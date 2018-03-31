@@ -1,0 +1,66 @@
+.fullBackground{
+    background-color: beige
+}
+
+.marg{
+    margin: 20px;
+    background-color: antiquewhite
+}
+
+.marg-row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container-bordered{
+    padding: 10px;
+    border: 3px solid #cecece;;
+    border-radius: 10px;
+}
+
+.add-icon{
+    margin-left: 10px;
+    height: 38px;
+}
+
+.mark-icon{
+    margin-left: 10px;
+    margin-top: 6px;
+    height: 22px;
+}
+
+.edit-icon{
+    margin-left: 10px;
+    margin-top: 6px;
+    height: 22px;
+}
+
+.delete-icon{
+    margin-left: 10px;
+    margin-top: 6px;
+    height: 22px;
+}
+
+.pad-main-block{
+    padding-top: 15px;
+}
+
+.center{
+    text-align: center;
+}
+
+.hidden-input{
+    background-color:transparent;
+    border: 0;
+    outline: none;
+    width:100%;
+}
+
+.id{
+
+}
+
+.finished{
+
+}
+
