@@ -1,7 +1,7 @@
-const getAllUrl = "http://localhost:4242/organizer/todo/";
-const saveUrl = "http://localhost:4242/organizer/todo/save";
-const deleteUrl = "http://localhost:4242/organizer/todo/delete/";
-const markUrl = "http://localhost:4242/organizer/todo/mark";
+const getAllUrl = "todo/";
+const saveUrl = "todo/save";
+const deleteUrl = "todo/delete/";
+const markUrl = "todo/mark";
 
 const addIconActive = "resources/images/add-active.svg";
 const addIconNotActive = "resources/images/add-notactive.svg";
