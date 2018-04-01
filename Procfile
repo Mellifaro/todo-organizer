@@ -1,1 +1,1 @@
-web: java -jar -Dspring.profiles.active="heroku" target/todo-0.0.1-SNAPSHOT.jar $PORT
+web: java -jar -Dspring.profiles.active="heroku" -Dserver.port=$PORT $JAVA_OPTS target/todo-0.0.1-SNAPSHOT.jar
